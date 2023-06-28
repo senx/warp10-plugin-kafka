@@ -40,7 +40,6 @@ apply plugin: 'io.warp10.warpfleet-gradle-plugin'
 project.group = 'io.warp10'
 project.description = 'Warp 10™ Kafka Plugin'
 
-// If the current tag is set, then it's a new release. Don't add build number
 project.version = getVersionFromGit()
 //
 // Repositories for the project dependencies
