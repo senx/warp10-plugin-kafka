@@ -2,7 +2,7 @@
   "type": "plugin",
   "group": "io.warp10",
   "artifact": "warp10-plugin-kafka",
-  "version": "1.0.0-uberjar",
+  "version": "2.0.1",
   "description": "Warp 10™ Kafka Plugin",
   "author": "SenX",
   "email": "contact@senx.io",
